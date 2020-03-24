@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kelaberetiv/TagUI/master/src/media/tebel_icon.png" height="111" align="right">
+<img src="https://raw.githubusercontent.com/tebelorg/TagUI/rpa_python/src/media/tebel_icon.png" height="111" align="right">
 
 # TagUI
 
